@@ -6,7 +6,7 @@ A simple reference explaining five core Claude Code features with plain-language
 
 ## 🎬 Video Walkthrough
 
-Watch the full explanation here: [ADD VIDEO URL HERE](#)
+Watch the full explanation here: [Click Here](https://www.youtube.com/watch?v=U2lHEAN21KY)
 
 ---
 
